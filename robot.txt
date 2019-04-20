@@ -1,0 +1,1 @@
+sitemap: http://firatyaman.com/sitemap.xml
