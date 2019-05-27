@@ -25,6 +25,15 @@
     <script src="//c.oracleinfinity.io/acs/account/oyzfgo7m25/js/inpage/odc.js"></script>
   </head>
   <body>
+    <!-- INFINITY TAG -->
+    <script>
+      var booking_step = function(msg){
+        msg.payload["booking_step"] = "search";
+      };
+      ORA.analytics.addMutation("search", booking_step);
+
+    </script>
+    <!-- INFINITY TAG -->
     
     <div class="site-wrap">
 
