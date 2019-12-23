@@ -13,7 +13,7 @@
 <body>
 <script>
 window.addEventListener("message", function(event) {
-var bkid = event.data.bluekaiId
+dataLayer.push({"bkid":event.data.bluekaiId})
 });
 </script>
 </body>
