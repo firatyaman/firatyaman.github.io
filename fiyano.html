@@ -1,0 +1,62 @@
+<html>
+<head>
+  <title>Sample HTML Page</title>
+</head>
+<body>
+
+<script type="text/javascript">
+var utag_data = {
+  event_type : "", // Contains the event type, e.g. link click', 'button click').
+  event_target : "", // Contains the name associated with an interactive element (link, button, etc).
+  event_attr1 : "", // Contains custom attribute 1 associated with an event.
+  event_attr2 : "", // Contains custom attribute 2 associated with an event.
+  event_attr3 : "", // Contains custom attribute 3 associated with an event.
+  event_attr4 : "", // Contains custom attribute 4 associated with an event.
+  customer_id : "", // Contains the customer's ID.
+  customer_username : "", // Contains the customer's username, e.g. johndoe38.
+  customer_status : "", // Contains the customer's status, e.g. 'logged in'.
+  customer_type : "", // Contains the customer's type, e.g. 'bronze member'.
+  customer_email : "", // Contains the customer's email.
+  customer_city : "", // Contains the city portion of the customer's address.
+  customer_state : "", // Contains the state portion of the customer's address.
+  customer_zip : "", // Contains the zip code portion of the customer's address.
+  customer_country : "", // Contains the country portion of the customer's address.
+  page_name : "", // Contains a user-friendly name for the page.
+  page_section : "", // Contains a user-friendly page section, e.g. 'configuration section'.
+  page_category : "", // Contains a user-friendly page category, e.g. 'appliance page'.
+  page_subcategory : "", // Contains a user-friendly page subcategory, e.g. 'refrigerator page'.
+  page_type : "", // Contains a user-friendly page type, e.g. 'cart page'.
+  event_name : "", // Tealium variable to identify unique events eg. social_share, user_login, etc.
+  tealium_event : "" // Identifies the unique names of tracked events.
+}
+</script>
+
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='https://tags.tiqcdn.com/utag/labrys-sandbox/firat.yaman/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+<h1>Implementing The Tealium Universal Tag</h1>
+
+<p>The script is generated dynamically based on your configuration selections 
+and includes your Data Layer. The Data Layer is generated from the variables 
+listed in the Variables tab.</p>
+
+<h2>To place the code on your website:</h2>
+
+<ol>
+    <li> Ensure you are are getting the code for the correct environment by 
+looking at the navigation on the left. (Dev, QA, Prod)</li>
+    <li> Click on the "Tealium Script" tab above.</li>
+    <li> Click and drag to select all the code.</li>
+    <li> Copy the code.</li>
+    <li> Navigate to the appropriate webpage, and paste 
+the code after the opening BODY tag.</li>
+</ol>
+
+</body>
+</html>    
