@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Fırat Yaman | Personal Website</title>
+    <link>https://www.firatyaman.com/about/</link>
+    <description>Recent content in Abouts on Fırat Yaman | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2023 01:03:09 +0300</lastBuildDate><atom:link href="https://www.firatyaman.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://www.firatyaman.com/about/about/</link>
+      <pubDate>Mon, 13 Mar 2023 01:03:09 +0300</pubDate>
+      
+      <guid>https://www.firatyaman.com/about/about/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>

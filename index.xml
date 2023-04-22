@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fırat Yaman | Personal Website</title>
+    <link>https://www.firatyaman.com/</link>
+    <description>Recent content on Fırat Yaman | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2023 14:55:09 +0300</lastBuildDate><atom:link href="https://www.firatyaman.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my blog</title>
+      <link>https://www.firatyaman.com/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Apr 2023 14:55:09 +0300</pubDate>
+      
+      <guid>https://www.firatyaman.com/posts/my-first-post/</guid>
+      <description>Hello Everyone! This is my first ever personal blog post!
+During my lifetime I was always a lazy person when it comes to writing. I got easily distracted and get bored while writing long paragraphs. The vast majority of my written outputs are quick notes, messaging and short e-mails.
+I decided to break my lifelong habit and write down the things in a nicely shaped blog posts.
+There are some motivations behind this.</description>
+    </item>
+    
+  </channel>
+</rss>
