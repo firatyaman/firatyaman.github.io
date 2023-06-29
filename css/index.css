@@ -70,9 +70,10 @@ header .navbar.animate {
 }
 
 /* hero */
+/* ilk hali: min-height: 100vh; */
 
 #hero {
-    min-height: 100vh;
+    min-height: 50vh;
     line-height: 2rem;
     max-width: 100%;
 }
