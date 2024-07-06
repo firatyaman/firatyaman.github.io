@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fırat Yaman | Personal Website</title>
+    <title>FIRAT YAMAN | Personal Website</title>
     <link>https://www.firatyaman.com/</link>
-    <description>Recent content on Fırat Yaman | Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on FIRAT YAMAN | Personal Website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 14:55:09 +0300</lastBuildDate><atom:link href="https://www.firatyaman.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 16:35:42 +0300</lastBuildDate>
+    <atom:link href="https://www.firatyaman.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Built-in Gemini Nano on Chrome</title>
+      <link>https://www.firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/</link>
+      <pubDate>Sat, 06 Jul 2024 16:35:42 +0300</pubDate>
+      <guid>https://www.firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/</guid>
+      <description>1. What is Embedded Gemini Nano? Google&amp;rsquo;s Gemini Nano is a LLM model for on-device tasks. It is a lightweight AI model which can process images, voice and text. Currently it is being used in some Google products such as Gboard, Talkback and Pixel Recorder.&#xA;Chrome recently published a beta version of Chrome which you can experience by installing Chrome Canary version. In this version they added an embedded version of Gemini Nano.</description>
+    </item>
     <item>
       <title>Welcome to my blog</title>
       <link>https://www.firatyaman.com/posts/my-first-post/</link>
       <pubDate>Sat, 22 Apr 2023 14:55:09 +0300</pubDate>
-      
       <guid>https://www.firatyaman.com/posts/my-first-post/</guid>
-      <description>Hello Everyone! This is my first ever personal blog post!
-During my lifetime I was always a lazy person when it comes to writing. I got easily distracted and get bored while writing long paragraphs. The vast majority of my written outputs are quick notes, messaging and short e-mails.
-I decided to break my lifelong habit and write down the things in a nicely shaped blog posts.
-There are some motivations behind this.</description>
+      <description>Hello Everyone! This is my first ever personal blog post!&#xA;During my lifetime I was always a lazy person when it comes to writing. I got easily distracted and get bored while writing long paragraphs. The vast majority of my written outputs are quick notes, messaging and short e-mails.&#xA;I decided to break my lifelong habit and write down the things in a nicely shaped blog posts.&#xA;There are some motivations behind this.</description>
     </item>
-    
   </channel>
 </rss>

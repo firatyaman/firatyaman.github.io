@@ -32,17 +32,22 @@
   
 
 
-<meta property="og:url" content="https://www.firatyaman.com/categories/">
+<meta property="og:url" content="https://www.firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/">
   <meta property="og:site_name" content="FIRAT YAMAN | Personal Website">
-  <meta property="og:title" content="Categories">
-  <meta property="og:description" content="Personal Website and Blog of Fırat Yaman">
+  <meta property="og:title" content="How to Use Built-in Gemini Nano on Chrome">
+  <meta property="og:description" content="1. What is Embedded Gemini Nano? Google’s Gemini Nano is a LLM model for on-device tasks. It is a lightweight AI model which can process images, voice and text. Currently it is being used in some Google products such as Gboard, Talkback and Pixel Recorder.
+Chrome recently published a beta version of Chrome which you can experience by installing Chrome Canary version. In this version they added an embedded version of Gemini Nano.">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-07-06T16:35:42+03:00">
+    <meta property="article:modified_time" content="2024-07-06T16:35:42+03:00">
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Categories">
-  <meta name="twitter:description" content="Personal Website and Blog of Fırat Yaman">
+  <meta name="twitter:title" content="How to Use Built-in Gemini Nano on Chrome">
+  <meta name="twitter:description" content="1. What is Embedded Gemini Nano? Google’s Gemini Nano is a LLM model for on-device tasks. It is a lightweight AI model which can process images, voice and text. Currently it is being used in some Google products such as Gboard, Talkback and Pixel Recorder.
+Chrome recently published a beta version of Chrome which you can experience by installing Chrome Canary version. In this version they added an embedded version of Gemini Nano.">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -115,11 +120,14 @@
     }
 </style>
 
-<meta name="description" content="Categories of FIRAT YAMAN | Personal Website">
-<link rel="stylesheet" href="/css/list.css" media="all">
+<meta name="description" content="">
+<link rel="stylesheet" href="/css/single.css">
+
+
+<script defer src="/fontawesome-5/all-5.15.4.js"></script>
 
   <title>
-Categories | FIRAT YAMAN | Personal Website
+How to Use Built-in Gemini Nano on Chrome | FIRAT YAMAN | Personal Website
 
   </title>
 </head>
@@ -262,17 +270,148 @@ Categories | FIRAT YAMAN | Personal Website
     </nav>
 </header>
 <div id="content">
-<div class="container pt-5" id="list-page">
-    <h2 class="text-center pb-2">Categories</h2>
-    <div class="row">
-        
-        <div class="row justify-content-center">
-            <div class="col-auto m-3">
-                
+<section id="single">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-sm-12 col-md-12 col-lg-9">
+        <div class="pr-lg-4">
+          <div class="title mb-5">
+            <h1 class="text-center mb-4">How to Use Built-in Gemini Nano on Chrome</h1>
+            <div class="text-center">
+              Fırat Yaman 
+              <small>|</small>
+              Jul 6, 2024
+
+              
+              <span id="readingTime">
+                min read
+              </span>
+              
             </div>
+          </div>
+          
+          <article class="page-content  p-2">
+          <h2 id="1-what-is-embedded-gemini-nano">1. What is Embedded Gemini Nano?</h2>
+<p>Google&rsquo;s Gemini Nano is a LLM model for on-device tasks. It is a lightweight AI model which can process images, voice and text. Currently it is being used in some Google products such as Gboard, Talkback and Pixel Recorder.</p>
+<p>Chrome recently published a beta version of Chrome which you can experience by installing Chrome Canary version. In this version they added an embedded version of Gemini Nano. It supports on-device AI processing of the webpage content.</p>
+<p>I am testing the potential use cases and contribution to the user/customer experience. If you are also interested, you can try by following these steps.</p>
+<h2 id="2-prerequisites">2. Prerequisites</h2>
+<ol>
+<li>Install Google Chrome Canary from this URL: <a href="https://www.google.com/chrome/canary/">https://www.google.com/chrome/canary/</a></li>
+<li>Open Google Canary and type <mark>chrome://flags</mark> to the address bar</li>
+<li>Type <mark>Prompt API for Gemini Nano</mark> to the search bar and set the option as enabled
+<br/>
+<img src="flags-step-1.png" alt='enabling gemini nano api' class="img-fluid" width="90%">
+<br/></li>
+<li>Type <mark>optimization-guide-on-device-model</mark> to the search bar and set the option as <mark>Enabled BypassPerfRequirements</mark>.<br/>
+(Note: This option is could be set as <mark>Enabled</mark> if your computer has a Neural Processing Unit (NPU) but I&rsquo;m not sure.)
+<br/>
+<img src="flags-step-2.png" alt='enabling gemini nano api' class="img-fluid" width="90%">
+<br/></li>
+<li>Restart your Chrome Canary application.<br/></li>
+<li>Type <mark>chrome://components</mark> to the address bar. Find <mark>Optimization Guide On Device Model</mark> component and click <mark>Check for update</mark> button. Then wait a few moments for downloading and installation.
+(Note: if you don&rsquo;t see <mark>Optimization Guide On Device Model</mark> option, set your primary Chrome Canary language as &ldquo;English&rdquo; from the browser settings)</li>
+<li>Now you can try the embedded Gemini Nano on your developer console or creating a HTML page and write the corresponding JS code!<br/>I tried this feature to summarize my first blog post content <a href="http://www.firatyaman.com/posts/my-first-post/">http://www.firatyaman.com/posts/my-first-post/</a>
+<br/>
+<img src="try-gemini-nano.png" alt='enabling gemini nano api' class="img-fluid" width="90%">
+<br/>
+<br/></li>
+</ol>
+<h2 id="3-example-js-code">3. Example JS code</h2>
+<pre tabindex="0"><code>const model=await http://window.ai.createTextSession();
+await model.prompt(&#39;Who are you?&#39;)
+</code></pre>
+          </article>
         </div>
+      </div>
+      <div class="col-sm-12 col-md-12 col-lg-3">
+        <div class="sticky-sidebar">
+          
+          <aside class="toc">
+              <h5>
+                Table Of Contents
+              </h5>
+              <div class="toc-content">
+                <nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-what-is-embedded-gemini-nano">1. What is Embedded Gemini Nano?</a></li>
+    <li><a href="#2-prerequisites">2. Prerequisites</a></li>
+    <li><a href="#3-example-js-code">3. Example JS code</a></li>
+  </ul>
+</nav>
+              </div>
+          </aside>
+          
+
+          
+
+          
+          <aside class="social">
+            <h5>Social</h5>
+            <div class="social-content">
+              <ul class="list-inline">
+                <li class="list-inline-item text-center">
+                  <a target="_blank" href="https://twitter.com/share?text=How%20to%20Use%20Built-in%20Gemini%20Nano%20on%20Chrome&url=https%3a%2f%2fwww.firatyaman.com%2fposts%2fhow-to-use-builtin-gemini-nano-on-chrome%2f">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item text-center">
+                  <a target="_blank" href="https://api.whatsapp.com/send?text=How%20to%20Use%20Built-in%20Gemini%20Nano%20on%20Chrome: https%3a%2f%2fwww.firatyaman.com%2fposts%2fhow-to-use-builtin-gemini-nano-on-chrome%2f">
+                    <i class="fab fa-whatsapp"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item text-center">
+                  <a target="_blank" href='mailto:?subject=How%20to%20Use%20Built-in%20Gemini%20Nano%20on%20Chrome&amp;body=Check%20out%20this%20site https%3a%2f%2fwww.firatyaman.com%2fposts%2fhow-to-use-builtin-gemini-nano-on-chrome%2f'>
+                    <i class="fa fa-envelope"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </aside>
+          
+        </div>
+      </div>
     </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-9 p-4">
+        
+      </div>
+    </div>
+  </div>
+  <button class="p-2 px-3" onclick="topFunction()" id="topScroll">
+    <i class="fas fa-angle-up"></i>
+  </button>
+</section>
+
+
+<div class="progress">
+  <div id="scroll-progress-bar" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
+<Script src="/js/scrollProgressBar.js"></script>
+
+
+<script>
+  var topScroll = document.getElementById("topScroll");
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      topScroll.style.display = "block";
+    } else {
+      topScroll.style.display = "none";
+    }
+  }
+
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
+
+
+<script src="/js/readingTime.js"></script>
+
+
 
   </div><footer>
     <div class="container py-3" id="recent-posts">
