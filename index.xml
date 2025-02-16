@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fırat Yaman | Personal Website</title>
-    <link>https://www.firatyaman.com/</link>
-    <description>Recent content on Fırat Yaman | Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>FIRAT YAMAN | Personal Website</title>
+    <link>https://firatyaman.com/</link>
+    <description>Recent content on FIRAT YAMAN | Personal Website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 14:55:09 +0300</lastBuildDate><atom:link href="https://www.firatyaman.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 16:35:42 +0300</lastBuildDate>
+    <atom:link href="https://firatyaman.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IAB PAIR SUMMARIZED: What do you need to know?</title>
+      <link>https://firatyaman.com/posts/iab-pair-summarized/</link>
+      <pubDate>Sun, 16 Feb 2025 16:35:42 +0300</pubDate>
+      <guid>https://firatyaman.com/posts/iab-pair-summarized/</guid>
+      <description>&lt;p&gt;IAB Tech Lab recently published a &lt;a href=&#34;https://iabtechlab.com/wp-content/uploads/2025/01/PAIR-Protocol-version-1.0.pdf&#34;&gt;32 page technical document&lt;/a&gt; about the implementation of PAIR (Publisher Advertiser Identity Reconciliation).&lt;/p&gt;&#xA;&lt;p&gt;I read this, so you don&#39;t have to...&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-what-is-pair&#34;&gt;1. What is PAIR?&lt;/h2&gt;&#xA;&lt;p&gt;PAIR was introduced by Google in 2022 to provide a privacy-first approach to identity resolution between advertisers and publishers. Google then donated this protocol to the IAB Tech Lab to make it a standard for all IAB members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-what-do-you-need-to-know-for-now&#34;&gt;2. What do you need to know, for now?&lt;/h2&gt;&#xA;&lt;p&gt;If you are responsible for advertising &amp;amp; marketing in your company, whether as a standalone advertiser or publisher, &lt;strong&gt;you don&amp;rsquo;t need to take any action&lt;/strong&gt;. The DSP/SSP you are using will implement this protocol into their solution. If you are using a CDP solution to manage your identity graph, you may consider adding a new type of identifier. I&amp;rsquo;m pretty sure that your CDP provider will also guide you regarding possible implementation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Use Built-in Gemini Nano on Chrome</title>
+      <link>https://firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/</link>
+      <pubDate>Sat, 06 Jul 2024 16:35:42 +0300</pubDate>
+      <guid>https://firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/</guid>
+      <description>&lt;h2 id=&#34;1-what-is-embedded-gemini-nano&#34;&gt;1. What is Embedded Gemini Nano?&lt;/h2&gt;&#xA;&lt;p&gt;Google&amp;rsquo;s Gemini Nano is a LLM model for on-device tasks. It is a lightweight AI model which can process images, voice and text. Currently it is being used in some Google products such as Gboard, Talkback and Pixel Recorder.&lt;/p&gt;&#xA;&lt;p&gt;Chrome recently published a beta version of Chrome which you can experience by installing Chrome Canary version. In this version they added an embedded version of Gemini Nano. It supports on-device AI processing of the webpage content.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to my blog</title>
-      <link>https://www.firatyaman.com/posts/my-first-post/</link>
+      <link>https://firatyaman.com/posts/my-first-post/</link>
       <pubDate>Sat, 22 Apr 2023 14:55:09 +0300</pubDate>
-      
-      <guid>https://www.firatyaman.com/posts/my-first-post/</guid>
-      <description>Hello Everyone! This is my first ever personal blog post!
-During my lifetime I was always a lazy person when it comes to writing. I got easily distracted and get bored while writing long paragraphs. The vast majority of my written outputs are quick notes, messaging and short e-mails.
-I decided to break my lifelong habit and write down the things in a nicely shaped blog posts.
-There are some motivations behind this.</description>
+      <guid>https://firatyaman.com/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-everyone&#34;&gt;Hello Everyone!&lt;/h2&gt;&#xA;&lt;p&gt;This is my first ever personal blog post!&lt;/p&gt;&#xA;&lt;p&gt;During my lifetime I was always a lazy person when it comes to writing. I got easily distracted and get bored while writing long paragraphs. The vast majority of my written outputs are quick notes, messaging and short e-mails.&lt;/p&gt;&#xA;&lt;p&gt;I decided to break my lifelong habit and write down the things in a nicely shaped blog posts.&lt;/p&gt;&#xA;&lt;p&gt;There are some motivations behind this. In the past, I did express my opinions and knowledge on social media. I thought the media I used will last forever. That was wrong. As an example, Facebook was looking immortal to everyone 10 years ago but right now, nobody uses it. There is no guarantee that same thing couldn&amp;rsquo;t happen to Twitter, LinkedIn, Medium and maybe to whole world wide web. Having your own media as the first source of information is always and will be the most reliable option.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
