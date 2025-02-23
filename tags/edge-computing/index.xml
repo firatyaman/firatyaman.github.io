@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge Computing on FIRAT YAMAN | Personal Website</title>
+    <link>https://firatyaman.com/tags/edge-computing/</link>
+    <description>Recent content in Edge Computing on FIRAT YAMAN | Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2024 16:35:42 +0300</lastBuildDate>
+    <atom:link href="https://firatyaman.com/tags/edge-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Built-in Gemini Nano on Chrome</title>
+      <link>https://firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/</link>
+      <pubDate>Sat, 06 Jul 2024 16:35:42 +0300</pubDate>
+      <guid>https://firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/</guid>
+      <description>&lt;h2 id=&#34;1-what-is-embedded-gemini-nano&#34;&gt;1. What is Embedded Gemini Nano?&lt;/h2&gt;&#xA;&lt;p&gt;Google&amp;rsquo;s Gemini Nano is a LLM model for on-device tasks. It is a lightweight AI model which can process images, voice and text. Currently it is being used in some Google products such as Gboard, Talkback and Pixel Recorder.&lt;/p&gt;&#xA;&lt;p&gt;Chrome recently published a beta version of Chrome which you can experience by installing Chrome Canary version. In this version they added an embedded version of Gemini Nano. It supports on-device AI processing of the webpage content.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
