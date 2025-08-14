@@ -1,0 +1,46 @@
+# FIRAT YAMAN
+
+> Personal website of a martech & adtech expert FIRAT YAMAN. This website contains brief information about him alongside with blog posts.
+
+
+## Fırat Yaman's Personal Website
+- [FIRAT YAMAN | Personal Website](https://firatyaman.com/): Personal Website and Blog of Fırat Yaman
+- [Posts | FIRAT YAMAN | Personal Website](https://firatyaman.com/posts/): Posts of FIRAT YAMAN | Personal Website
+- [Posts | FIRAT YAMAN | Personal Website](https://firatyaman.com/posts): Posts of FIRAT YAMAN | Personal Website
+- [Categories | FIRAT YAMAN | Personal Website](https://firatyaman.com/categories/): Categories of FIRAT YAMAN | Personal Website
+- [Tags | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/): Tags of FIRAT YAMAN | Personal Website
+
+## Data Related Topics
+- [Data Clean Room | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/data-clean-room/): Data Clean Room of FIRAT YAMAN | Personal Website
+- [Data Privacy | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/data-privacy/): Data Privacy of FIRAT YAMAN | Personal Website
+- [First Party Data | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/first-party-data/): First Party Data of FIRAT YAMAN | Personal Website
+- [ID Resolution | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/id-resolution/): ID Resolution of FIRAT YAMAN | Personal Website
+
+## IAB and PAIR Topics
+- [IAB PAIR SUMMARIZED: What do you need to know? | FIRAT YAMAN | Personal Website](https://firatyaman.com/posts/iab-pair-summarized/): IAB PAIR SUMMARIZED: What do you need to know?
+- [IAB Tech Lab | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/iab-tech-lab/): IAB Tech Lab of FIRAT YAMAN | Personal Website
+- [PAIR | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/pair/): PAIR of FIRAT YAMAN | Personal Website
+
+## Technology Topics
+- [Ai | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/ai/): Ai of FIRAT YAMAN | Personal Website
+- [Edge Computing | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/edge-computing/): Edge Computing of FIRAT YAMAN | Personal Website
+- [Gemini Nano | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/gemini-nano/): Gemini Nano of FIRAT YAMAN | Personal Website
+
+## How-To Guides
+- [How to Use Built-in Gemini Nano on Chrome | FIRAT YAMAN | Personal Website](https://firatyaman.com/posts/how-to-use-builtin-gemini-nano-on-chrome/): How to Use Built-in Gemini Nano on Chrome
+
+## Welcome and Blog Introduction
+- [Welcome to my blog | FIRAT YAMAN | Personal Website](https://firatyaman.com/posts/my-first-post/): Welcome to my blog
+
+## Optional
+- [PAIR | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/pair): PAIR of FIRAT YAMAN | Personal Website
+- [IAB Tech Lab | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/iab-tech-lab): IAB Tech Lab of FIRAT YAMAN | Personal Website
+- [First Party Data | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/first-party-data): First Party Data of FIRAT YAMAN | Personal Website
+- [ID Resolution | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/id-resolution): ID Resolution of FIRAT YAMAN | Personal Website
+- [Data Clean Room | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/data-clean-room): Data Clean Room of FIRAT YAMAN | Personal Website
+- [Data Privacy | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/data-privacy): Data Privacy of FIRAT YAMAN | Personal Website
+- [Tags | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/page/2/): Tags of FIRAT YAMAN | Personal Website
+- [Tags | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/page/3/): Tags of FIRAT YAMAN | Personal Website
+- [Ai | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/ai): Ai of FIRAT YAMAN | Personal Website
+- [Gemini Nano | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/gemini-nano): Gemini Nano of FIRAT YAMAN | Personal Website
+- [Edge Computing | FIRAT YAMAN | Personal Website](https://firatyaman.com/tags/edge-computing): Edge Computing of FIRAT YAMAN | Personal Website
